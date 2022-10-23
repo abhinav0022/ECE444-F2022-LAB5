@@ -1,0 +1,54 @@
+/* 1 */
+body {
+    font-family: Verdana;
+    padding: 40px;
+    background-color: #C7F3FF;
+}
+
+/* 2 */
+h1 {
+    color: #00204E;
+}
+
+h3 {
+    color: #00204E;
+}
+
+/* 3 */
+.common-page-heading-container {
+    text-align: center;
+    margin: 20px auto;
+}
+
+/* 4 */
+.common-page-form select {
+    background-color: beige;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.common-page-form input {
+    background-color: beige;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+/* 5 */
+.common-page-form-field {
+    margin: 2px auto;
+}
+
+/* 6 */
+.common-page-form {
+    border: 2px;
+    border-style: solid;
+    border-color: #00204E;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+/* 7 */
+.common-page-submit-btn {
+    margin-top: 20px;
+}
