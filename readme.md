@@ -1,6 +1,6 @@
 # ECE444-F2022-Lab5
 
-By Group 9 (Ramakrishna Natarajan, Mina Assaad, Abhinav Sanjeeva) 
+By Group 9 (Ramakrishna Natarajan, Mina Assaad, Abhinav Sanjeeva Prasad) 
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
