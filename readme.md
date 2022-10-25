@@ -28,6 +28,7 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 ![Alt text](images/activity6_user_story_1.png?raw=true "Activity 6 1")
 
 **User Story 2: Viewing Minors Requiring this Course**
+
 ![Alt text](images/activity6_user_story_2.png?raw=true "Activity 6 2")
 
 **User Story 3: Viewing Minor Information Page**
