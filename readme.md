@@ -24,10 +24,10 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 ## Activity 6
 
-**User Story 1: Viewing Student Reviews**
+**User Story 1: Viewing Student Reviews within the Course Information Page**
 ![Alt text](images/activity6_user_story_1.png?raw=true "Activity 6 1")
 
-**User Story 2: Viewing Minors Requiring this Course**
+**User Story 2: Viewing Minors and Certificates Requiring this Course within the Course Information Page**
 
 ![Alt text](images/activity6_user_story_2.png?raw=true "Activity 6 2")
 
